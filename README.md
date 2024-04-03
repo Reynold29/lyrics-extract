@@ -13,19 +13,19 @@ A simple script for extracting lyrics embedded in HTML files and saving them in 
 **2. Install Dependencies**
 
 ```bash
-pip install requests beautifulsoup4 os json
+pip3 install requests beautifulsoup4 os json
 ```
 **3. Run the Script**
 
 * For English Lyrics, 
 
 ```bash
-python lyrics_extract.py
+python3 lyrics_extract.py
 ```
 * For Kannada Lyrics,
 
 ```bash
-python lyrics_extract_kan.py
+python3 lyrics_extract_kan.py
 ```
 * Notes:
 
